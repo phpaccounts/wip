@@ -1,8 +1,8 @@
-PHP Accounts 0.5 (Beta)
+PHP Accounts 0.5.3 (Beta)
 ----------------------
-June 15th 2007
+May 18th 2014
 
-Copyright 2005 - 2007 Chris Kirkland http://www.mrkirkland.com
+Copyright 2005 - 2014 Chris Kirkland http://www.mrkirkland.com
 
 
 About
@@ -15,7 +15,7 @@ See install.txt
 
 Support
 ------
-See http://www.phpaccounts.com/support/
+See http://www.phpaccounts.org
 
 
 Copyright and disclaimer
