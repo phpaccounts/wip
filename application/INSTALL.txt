@@ -31,4 +31,4 @@ Next you'll want to add some (of your) clients to the system
 Getting Help
 ------------
 
-Please see http://www.phpaccounts.com/support/
+Please use the github forums and phpaccounts Wiki, for bugs simply raise an issue. 
